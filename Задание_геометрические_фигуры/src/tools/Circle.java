@@ -53,6 +53,6 @@ public class Circle extends GeometricObject implements Colorable
 
     public void howToColor()
     {
-        System.out.println( "Раскрасьте все четыре стороны." );
+        System.out.println( "Раскрасьте плоскость, ограниченную окружностью." );
     }
 }
